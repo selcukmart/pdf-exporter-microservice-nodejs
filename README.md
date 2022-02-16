@@ -11,7 +11,7 @@ Call like this:
 Call Address
 
 ```
-https://microservice.xxxyyy.com:2005/pdf-export
+https://microservice.xxxyyy.com:2005
 ```
 PHP Example
 
