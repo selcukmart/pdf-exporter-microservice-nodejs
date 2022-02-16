@@ -1,7 +1,7 @@
 module.exports = {
     HTTP_PORT: 2005,
     HTTPS_PORT: 443,
-    PATH: '/pdf-export',
+    PATH: '',
     USERNAME: 'test',
     PASSWORD: 'test',
     ENV: 'LOCAL',

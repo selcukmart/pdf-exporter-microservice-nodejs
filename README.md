@@ -11,7 +11,9 @@ Call like this:
 Call Address;
 You should prepare it, this is only example.
 ```
-https://microservice.xxxyyy.com:2005
+https://microservice.xxxyyy.com
+OR
+http://microservice.xxxyyy.com:2005
 ```
 PHP Example
 
