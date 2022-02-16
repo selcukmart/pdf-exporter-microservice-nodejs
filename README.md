@@ -8,8 +8,8 @@ As the first modify config.js according to your configuration.
 
 Call like this:
 
-Call Address
-
+Call Address;
+You should prepare it, this is only example.
 ```
 https://microservice.xxxyyy.com:2005
 ```
